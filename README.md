@@ -3,6 +3,8 @@ none and yet
 main common
 強い変更用
 
+ONNXRUNTIME
+
 direcml
 armubuntu
 
